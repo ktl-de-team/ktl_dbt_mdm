@@ -1,0 +1,110 @@
+"ID","SOURCE","CATEGORY_TYPE","ORIGINAL_VALUE","STANDARD_VALUE","DESCRIPTION"
+1,CoreBank,cu_tru,CTRU,CTRU,
+2,Corebank,cu_tru,KCTRU,KCTRU,
+3,Corebank,dan_toc,KINH,KINH,
+4,Corebank,dan_toc,HOA,HOA,
+5,Corebank,dan_toc,HMONG,HMONG,
+6,Corebank,dan_toc,DTOCKH,DTOCKH,
+7,Corebank,danh_xung,MR,ONG,
+8,Corebank,danh_xung,MRS,BA,
+9,Corebank,danh_xung,MS,BA,
+10,Corebank,danh_xung,BA,BA,
+11,Corebank,danh_xung,ONG,ONG,
+12,Corebank,gioi_tinh,M,Nam,
+14,Corebank,gioi_tinh,"0",Nam,
+15,Corebank,gioi_tinh,"1",Nữ,
+16,Corebank,nghe_nghiep,NVVP,NVVP,
+17,Corebank,nghe_nghiep,GV,GV,
+18,Corebank,nghe_nghiep,CN,CN,
+19,Corebank,nghe_nghiep,BS,BS,
+20,Corebank,nghe_nghiep,KS,KS,
+21,Corebank,nghe_nghiep,LS,LS,
+22,Corebank,nghe_nghiep,LD,LD,
+23,Corebank,nghe_nghiep,HSSV,HSSV,
+24,Corebank,nguon_thu_nhap_chinh,INC1,INC1,
+25,Corebank,nguon_thu_nhap_chinh,INC2,INC2,
+26,Corebank,nguon_thu_nhap_chinh,INC3,INC3,
+27,Corebank,nguon_thu_nhap_chinh,INC4,INC4,
+28,Corebank,nguon_thu_nhap_chinh,INCOTH,INCOTH,
+29,Corebank,nguon_thu_nhap_chinh,"1",INCOTH,
+30,Corebank,nguon_thu_nhap_chinh,"2",INCOTH,
+31,Corebank,nguon_thu_nhap_chinh,"3",INCOTH,
+32,Corebank,nguon_thu_nhap_chinh,Tu_luong,INC1,
+33,Corebank,nguon_thu_nhap_chinh,Tu_kinh_doanh,INC2,
+34,Corebank,nguon_thu_nhap_chinh,Tu_tien_goi_tiet_kiem,INC3,
+35,Corebank,so_huu_nha,CSH,CSH,
+36,Corebank,so_huu_nha,THUE,THUE,
+37,Corebank,so_huu_nha,NBM,NBM,
+38,Corebank,thu_nhap_ho,"1","1",
+39,Corebank,thu_nhap_ho,"2","2",
+40,Corebank,thu_nhap_ho,"3","3",
+41,Corebank,thu_nhap_ho,"4","4",
+42,Corebank,thu_nhap_ho,"5","5",
+43,Corebank,thu_nhap_ho,"6","6",
+44,Corebank,thu_nhap_ho,Tu 7 trieu den duoi 10 trieu,"1",
+45,Corebank,thu_nhap_ho,Tu 10 trieu den duoi 30 trieu,"2",
+46,Corebank,thu_nhap_ho,Tu 30 trieu den duoi 45 trieu,"3",
+47,Corebank,thu_nhap_ho,Tu 45 trieu den duoi 100 trieu,"4",
+48,Corebank,thu_nhap_ho,Tu 100 trieu tro len,"5",
+49,Corebank,thu_nhap_ho,Duoi 7 trieu,"6",
+50,Corebank,thu_nhap_ho,"1","1",
+51,Corebank,thu_nhap_ho,"2","2",
+52,Corebank,thu_nhap_ho,"3","3",
+53,Corebank,thu_nhap_ho,"4","4",
+54,Corebank,thu_nhap_ho,"5","5",
+55,Corebank,thu_nhap_ho,"6","6",
+56,Corebank,thu_nhap_ho,Tu 7 trieu den duoi 10 trieu,"1",
+57,Corebank,thu_nhap_ho,Tu 10 trieu den duoi 30 trieu,"2",
+58,Corebank,thu_nhap_ho,Tu 30 trieu den duoi 45 trieu,"3",
+59,Corebank,thu_nhap_ho,Tu 45 trieu den duoi 100 trieu,"4",
+60,Corebank,thu_nhap_ho,Tu 100 trieu tro len,"5",
+61,Corebank,thu_nhap_ho,Duoi 7 trieu,"6",
+62,Corebank,tinh_trang_hon_nhan,COGD,COGD,
+63,Corebank,tinh_trang_hon_nhan,DCTH,DCTH,
+64,Corebank,tinh_trang_hon_nhan,GOA,GOA,
+65,Corebank,tinh_trang_hon_nhan,LYTHAN,LYTHAN,
+66,Corebank,tinh_trang_hon_nhan,LYDI,LYDI,
+67,Corebank,tinh_trang_hon_nhan,COGIADINH,COGD,
+68,Corebank,tinh_trang_hon_nhan,DOCTHAN,DCTH,
+69,Corebank,trinh_do_hoc_van,SDH,PHD,
+70,Corebank,trinh_do_hoc_van,DH,DH,
+71,Corebank,trinh_do_hoc_van,TNPT,TNPT,
+72,Corebank,trinh_do_hoc_van,CD,CD,
+73,Corebank,trinh_do_hoc_van,TH,TH,
+74,Corebank,trinh_do_hoc_van,CAODANG,CD,
+75,Corebank,trinh_do_hoc_van,DAIHOC,DH,
+76,Corebank,trinh_do_hoc_van,PTTH,TNPT,
+77,CoreBank,OCCPTN,NVVP,NV_VANPHONG,nhÃ¢n viÃªn vÄƒn phÃ²ng
+78,CoreBank,OCCPTN,GV,NV_VIENCHUC,nhÃ¢n viÃªn viÃªn chá»©c
+79,CoreBank,OCCPTN,CN,CONGNHAN,CÃ´ng nhÃ¢n
+80,CoreBank,OCCPTN,BS,BACSI,BÃ¡c sÄ©
+81,CoreBank,OCCPTN,KS,KYSU,Ká»¹ sÆ°
+82,CoreBank,OCCPTN,LS,LUATSU,Luáº­t sÆ°
+83,CoreBank,OCCPTN,LD,NV_VIENCHUC,nhÃ¢n viÃªn viÃªn chá»©c
+84,CoreBank,OCCPTN,HSSV,HSSV,"Há»�c sinh, sinh viÃªn"
+85,LOS,OCCPTN,KINHDOANHTUDO,KD_TUDO,Kinh doanh tá»± do
+86,LOS,OCCPTN,NVVP,NV_VANPHONG,nhÃ¢n viÃªn vÄƒn phÃ²ng
+87,LOS,OCCPTN,NVTHOIVU,KD_TUDO,Kinh doanh tá»± do
+88,LOS,OCCPTN,NVVIENCHUC,NV_VIENCHUC,nhÃ¢n viÃªn viÃªn chá»©c
+89,LOS,OCCPTN,GIAMDOC,NV_VANPHONG,nhÃ¢n viÃªn vÄƒn phÃ²ng
+90,LOS,OCCPTN,TRUONGPHONGKD,NV_VANPHONG,nhÃ¢n viÃªn vÄƒn phÃ²ng
+91,LOS,OCCPTN,BACSI,BACSI,BÃ¡c sÄ©
+92,LOS,OCCPTN,KISU,KYSU,Ká»¹ sÆ°
+93,LOS,OCCPTN,NVYTE,NV_YTE,NhÃ¢n viÃªn y táº¿
+94,CoreBank,INCOME,INC1,TN_TULUONG,Thu nháº­p tá»« lÆ°Æ¡ng
+95,CoreBank,INCOME,INC2,TN_TUKINHDOANH,Thu nháº­p tá»« cÃ´ng viá»‡c kinh doanh
+96,CoreBank,INCOME,INC3,TN_TGTK,Thu nháº­p tá»« gá»­i tiáº¿t kiá»‡m NH
+97,CoreBank,INCOME,INC4,TN_TUCHOTHUE,Thu nháº­p tá»« hoáº¡t Ä‘á»™ng cho thuÃª tÃ i sáº£n
+98,CoreBank,INCOME,INCOTH,TN_KHAC,Thu nháº­p tá»« cÃ¡c nguá»“n khÃ¡c
+99,LOS,INCOME,THUNHAPTULUONG,TN_TULUONG,Thu nháº­p tá»« lÆ°Æ¡ng
+100,LOS,INCOME,KHONGCOTHUNHAP,TN_KHONG,KhÃ´ng cÃ³ thu nháº­p
+101,LOS,INCOME,THUNHAPTOCHOVAY,TN_TUKINHDOANH,Thu nháº­p tá»« cÃ´ng viá»‡c kinh doanh
+102,LOS,INCOME,THUNHAPKHAC,TN_KHAC,Thu nháº­p tá»« cÃ¡c nguá»“n khÃ¡c
+103,LOS,INCOME,THUNHAPTUKINHDOANH,TN_TUKINHDOANH,Thu nháº­p tá»« cÃ´ng viá»‡c kinh doanh
+104,LOS,INCOME,THUNHAPTUCHANNUOI,TN_TUKINHDOANH,Thu nháº­p tá»« cÃ´ng viá»‡c kinh doanh
+105,LOS,INCOME,THUNHAPTUCHOTHUE,TN_TUCHOTHUE,Thu nháº­p tá»« hoáº¡t Ä‘á»™ng cho thuÃª tÃ i sáº£n
+,Corecard,gioi_tinh,Nam,Nam,
+,Corecard,gioi_tinh,Nữ,Nữ,
+,Corebank,gioi_tinh,F,Nữ,
+,Corebank,danh_xung,Ông,Mr,
+,Corebank,danh_xung,Bà,Mrs,

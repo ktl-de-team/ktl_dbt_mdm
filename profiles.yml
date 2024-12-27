@@ -1,0 +1,36 @@
+# ORACLE
+ktl_dbt_mdm:
+  outputs:
+    dev:
+      type: oracle
+      host: 192.168.1.58
+      port: 1521
+      protocol: tcp
+      user: LVBHOST
+      password: lvbhost123
+      service: DATALAKE
+      schema: LAKEHOUSE
+      threads: 3
+  target: dev
+
+# SPARK
+# ktl_dbt_mdm:
+#   target: dev
+#   outputs:
+#     test:
+#       type: spark
+#       method: session
+#       schema: integration_demo
+#       host: NA
+#       server_side_parameters: {}
+
+#     dev:
+#       type: spark
+#       method: session
+#       schema: integration_demo
+#       host: NA
+#       threads: 3
+#       server_side_parameters:
+#         # only spark_catalog can create view 
+#         "spark.sql.defaultCatalog": "spark_catalog"
+#         "spark.driver.maxResultSize": "0"

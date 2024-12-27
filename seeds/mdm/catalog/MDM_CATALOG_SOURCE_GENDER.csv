@@ -1,0 +1,9 @@
+"ID","SOURCE","GENDER_CODE","GENDER_VALUE"
+1,CoreBank,0,MALE
+2,CoreBank,1,FEMALE
+3,CoreBank,0,NAM
+4,CoreBank,1,Nu
+5,Los,0,"0"
+6,Los,1,"1"
+7,CoreBank,1,Nữ
+7,CoreBank,0,Nam

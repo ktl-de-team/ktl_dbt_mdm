@@ -1,0 +1,54 @@
+version: 2
+
+seeds:
+  - name: MDM_PHONE_NUMBER_PREFIX
+    config:
+      column_types:
+        ID: INT
+        OLD_PHONE: VARCHAR2(255)
+        NEW_PHONE: VARCHAR2(255)
+
+  - name: MDM_CATALOG_CATEGORY
+    config:
+      column_types:
+        ID: INT
+        SOURCE: VARCHAR2(255)
+        CATEGORY_TYPE: VARCHAR2(255)
+        ORIGINAL_VALUE: VARCHAR2(255)
+        STANDARD_VALUE: VARCHAR2(255)
+        DESCRIPTION: VARCHAR2(255)
+
+  - name: MDM_CATALOG_PROVINCE_CODE
+    config:
+      column_types:
+        ID: INT
+        PROVINCE_CODE: VARCHAR2(255)
+  
+  - name: MDM_CATALOG_PERSONID_GENDER
+    config:
+      column_types:
+        ID: INT
+        GENDER_CODE: INT
+        START_YEAR: INT
+        END_YEAR: INT
+        PERSONID_DIGI4: INT
+  
+  - name: MDM_CATALOG_SOURCE_GENDER
+    config:
+      column_types:
+        ID: INT
+        SOURCE: VARCHAR2(255)
+        GENDER_CODE: INT
+        GENDER_VALUE: VARCHAR2(255)
+  
+  - name: MDM_CATALOG_INVALID_EMAIL_ADDRESS
+    config:
+      column_types:
+        ID: INT
+        EMAIL: VARCHAR2(255)
+  
+  - name: MDM_CATALOG_INVALID_EMAIL_DOMAIN
+    config:
+      column_types:
+        ID: INT
+        EMAIL_DOMAIN: VARCHAR2(255)

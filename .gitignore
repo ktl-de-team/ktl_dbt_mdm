@@ -1,0 +1,9 @@
+.env
+
+target/
+logs/
+.user.yml
+
+storage/
+k8s-deployment/
+
